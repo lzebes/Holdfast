@@ -3,6 +3,12 @@
 Locks apps and websites on your Mac for a set time. The lock survives quitting the app and restarting the Mac.
 The only way out early is typing a long random passage (10,000 words by default).
 
+<p align="center"><img src="docs/setup.png" width="720" alt="Choosing apps, websites, duration and challenge length"></p>
+
+| Locked | Unlocking early |
+| --- | --- |
+| <img src="docs/locked.png" alt="Countdown while a lock is active"> | <img src="docs/challenge.png" alt="Typing challenge to unlock early"> |
+
 ## Build and run
 
     ./build.sh
